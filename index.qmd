@@ -1,0 +1,79 @@
+---
+title: "Open research good practices: A wildlife perspective"
+format:
+  closeread-html:
+    cr-style:
+      narrative-background-color-sidebar: "#987654"
+      narrative-text-color-sidebar: "#ffffff"
+      section-background-color: "#C1E1C1"
+      narrative-font-size: 24pt
+      narrative-font-family: Comic Sans MS
+      narrative-background-color-overlay: "#422e53"
+    remove-header-space: true
+---
+
+:::{.cr-section layout="sidebar-right"}
+**_Open Research Good Practices_**  [@cr-intro]{pan-to="0%,-23%"  scale-by="0.55"}
+
+_Open Science Retreat Global Edition 2026_  [@cr-intro]{pan-to="0%,-23%"  scale-by="0.55"}
+
+:::{#cr-intro}
+![](img/intro.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+**_The Open Research Umbrella_**  [@cr-umbrella]{pan-to="0%,-24.5%"  scale-by="0.5"}
+
+:::{#cr-umbrella}
+![](img/umbrella.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+**_Open Outputs_**  [@cr-outputs]{pan-to="0%,-22.5%"  scale-by="0.55"}
+
+:::{#cr-outputs}
+![](img/outputs.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+**_Open Data_**  [@cr-data]{pan-to="0%,-24.5%"  scale-by="0.5"}
+
+:::{#cr-data}
+![](img/data.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+**_Open Methods_**  [@cr-methods]{pan-to="0%,-23%"  scale-by="0.52"}
+
+:::{#cr-methods}
+![](img/methods.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+**_Open Education_**  [@cr-education]{pan-to="0%,-22%"  scale-by="0.55"}
+
+:::{#cr-education}
+![](img/education.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+**_As open ..., as closed ..._**  [@cr-quote]{pan-to="0%,-23%"  scale-by="0.53"}
+
+:::{#cr-quote}
+![](img/quote.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-left}"}
+**_Further reading_**  [@cr-reference]{pan-to="0%,-23%"  scale-by="0.5"}
+
+:::{#cr-reference}
+![](img/reference.jpg)
+:::
+:::
