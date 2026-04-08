@@ -8,7 +8,7 @@ format:
       section-background-color: "#C1E1C1"
       narrative-font-size: 24pt
       narrative-font-family: Comic Sans MS
-      narrative-background-color-overlay: "#422e53"
+      narrative-background-color-overlay: "#987654"
     remove-header-space: true
 ---
 
