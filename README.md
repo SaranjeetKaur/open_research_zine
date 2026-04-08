@@ -8,6 +8,10 @@ The Zine titled "Open research good practices: A wildlife perspective" is inspir
 
 _For the best experience, please view this on a laptop._
 
+## View on Zenodo
+
+https://zenodo.org/records/19462236
+
 ## Tools used
 
 [Closeread extension for Quarto](https://closeread.dev/)
